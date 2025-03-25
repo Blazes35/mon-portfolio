@@ -60,7 +60,7 @@ Suivez ces étapes pour installer et lancer le projet localement sur votre machi
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/votre-utilisateur/mon-portfolio.git
+   git clone https://github.com/Blazes35/mon-portfolio.git
    cd mon-portfolio
    ```
 
