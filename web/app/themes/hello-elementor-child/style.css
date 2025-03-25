@@ -1,0 +1,23 @@
+/**
+ * Theme Name: Hello Elementor child
+ * Description: Hello Elementor Child theme
+ * Author: Creative Themes
+ * Template: hello-elementor
+ * Text Domain: Hello Elementor
+ */
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+}
+
+.portfolio-grid .card {
+    transition: transform 0.3s ease;
+}
+.portfolio-grid .card:hover {
+    transform: scale(1.03);
+}
